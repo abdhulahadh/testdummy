@@ -1,0 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+output_graph_pretrained.zip filter=lfs diff=lfs merge=lfs -text
